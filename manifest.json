@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "com.unity.inputsystem": "1.7.0",
+    "com.aveo67.easyinputhandling": "https://github.com/aveo67/Easy-Input-Handling.git"
+  },
+  "scopedRegistries": [
+    {
+      "name": "package.openupm.com",
+      "url": "https://package.openupm.com",
+      "scopes": [
+        "com.openupm",
+        "com.svermeulen.extenject"
+      ]
+    }
+  ]
+}

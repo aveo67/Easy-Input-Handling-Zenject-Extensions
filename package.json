@@ -1,0 +1,17 @@
+{
+  "name": "com.aveo67.easyinputhandling.zenjectextensions",
+  "displayName": "Easy Input Handling Zenject Extensions",
+  "version": "1.0.0",
+  "unity": "2023.1",
+  "description": "Zenject extension methods for easy binding instances of input handlers",
+  "keywords": [
+    "input",
+    "unity"
+  ],
+  "category": "Unity",
+  "dependencies": {
+    "com.unity.inputsystem": "1.7.0",
+    "com.svermeulen.extenject": "9.2.0-stcf3",
+    "com.aveo67.easyinputhandling": "https://github.com/aveo67/Easy-Input-Handling.git"
+  }
+}
