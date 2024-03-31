@@ -1,7 +1,6 @@
 {
   "dependencies": {
-    "com.unity.inputsystem": "1.7.0",
-    "com.aveo67.easyinputhandling": "https://github.com/aveo67/Easy-Input-Handling.git"
+    "com.unity.inputsystem": "1.7.0"
   },
   "scopedRegistries": [
     {
